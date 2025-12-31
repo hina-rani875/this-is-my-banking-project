@@ -1,0 +1,55 @@
+body{
+    background-color: #17162b;
+    color: aliceblue;
+ font-family:  web-safe sans-serif fonts;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin-left: 250px;
+    margin-top: -50px;
+    margin-right: -200px;
+
+}
+button{
+    color:#17162b;
+    border: 2px rgb(235, 227, 227) solid;
+    font-size: 17px;
+    margin-left: 350px;
+}
+.bank{
+    
+    margin-top: 200px;
+    font-size: 60px; 
+    margin-left: 100px;
+
+} 
+.image{
+    margin-left: 800px;
+    margin-top: -300px;
+}
+
+p{
+    margin-top: -200px;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+.started{
+    font-size: 20px;
+    background-color: #0133ae;
+    color: white;
+   margin-left: 100px;
+  font-family:  web-safe sans-serif fonts;
+}
+
+.track{
+     margin-left: 100px;
+  text-align: center;
+    font-size: 50px;
+}
+#para{
+    text-align-last: center;
+}
